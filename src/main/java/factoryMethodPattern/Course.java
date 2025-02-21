@@ -1,6 +1,5 @@
 package factoryMethodPattern;
 
-import javax.management.modelmbean.ModelMBean;
 import java.util.ArrayList;
 import java.util.List;
 
