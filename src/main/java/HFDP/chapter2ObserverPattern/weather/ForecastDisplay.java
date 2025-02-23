@@ -1,4 +1,4 @@
-package HFDP.chapter2ObserverPattern;
+package HFDP.chapter2ObserverPattern.weather;
 
 public class ForecastDisplay implements Observer, DisplayElement {
 

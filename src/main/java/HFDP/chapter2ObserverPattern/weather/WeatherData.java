@@ -1,4 +1,4 @@
-package HFDP.chapter2ObserverPattern;
+package HFDP.chapter2ObserverPattern.weather;
 
 import java.util.ArrayList;
 import java.util.List;
