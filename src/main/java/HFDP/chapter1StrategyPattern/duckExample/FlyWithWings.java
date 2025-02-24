@@ -1,4 +1,4 @@
-package HFDP.chapter1StrategyPattern;
+package HFDP.chapter1StrategyPattern.duckExample;
 
 public class FlyWithWings implements FlyBehavior {
 
